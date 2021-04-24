@@ -1,12 +1,12 @@
 <h2> TensorFlow Colab Notebooks </h2>
 
 
-<h4> Notebook 1 - HelloWorld_NeuralNetwork.ipynb </h4>
+<h3> Notebook 1 - HelloWorld_NeuralNetwork.ipynb </h3>
 Given a set of Xs and a set of Ys, the model should be able to figure out the relationship between them.
 <br>
 
 
-<h4> Notebook 2 - Exercise_1_House_Prices_Question.ipynb (Coursera Programming Assignment 1) </h4>
+<h3> Notebook 2 - Exercise_1_House_Prices_Question.ipynb (Coursera Programming Assignment 1) </h3>
 
 Build a neural network that predicts the price of a house according to a simple formula.
 So, imagine if house pricing was as easy as a house costs 50k + 50k per bedroom, so that a 1 bedroom house costs 100k, a 2 bedroom house costs 150k etc.
